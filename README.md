@@ -91,6 +91,9 @@ backend/
 │── README.md               # documentation
 
 ```
+
+---
+
 📌 Future Improvements
 
 Add JWT protected routes properly
@@ -103,9 +106,11 @@ Add issue assignment + comments
 
 Add real-time repository updates
 
+---
 
 👤 Author
 
 Rajmani
 💻 Full Stack / Frontend Developer
 🔗 GitHub: https://github.com/coder-rajmani
+
